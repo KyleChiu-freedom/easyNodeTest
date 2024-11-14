@@ -1,0 +1,14 @@
+{
+  "name": "easynodetest",
+  "version": "1.0.0",
+  "description": "The easiest test for testing you node is working or not",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hkc619",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
